@@ -25,3 +25,6 @@ li a:hover:not(.active) {
 .active {
     background-color: red;
 }
+body {
+    background-color: spacegrey;
+}
