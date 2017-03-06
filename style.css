@@ -28,3 +28,17 @@ li a:hover:not(.active) {
 body {
     background-color: spacegrey;
 }
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+} 
+th {
+    text-align: left;
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+}
